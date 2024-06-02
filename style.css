@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    text-decoration: underline 1px double;
+
+}
+
+h2 {
+    text-decoration: underline 3px;
+}
+
+a {
+    text-decoration: none;
+}
